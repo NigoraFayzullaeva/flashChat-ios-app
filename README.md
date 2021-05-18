@@ -18,7 +18,7 @@
   <li>How to create direct Segues for navigation.</li>
 
 </ul>
-<h2>☑️ Final look of Flash Chat app�⚡️</h2>
+<h2>☑️ Final look of Flash Chat app⚡️</h2>
 <img src="flashChat.gif" alt="FlashChat" width="20%" height="50%">
 
 
