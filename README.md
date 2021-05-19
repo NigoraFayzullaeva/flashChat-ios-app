@@ -15,7 +15,7 @@
   <li>How to create a constants file and use static properties to store Strings and other constants.</li>
   <li>Learned about Swift loops and created animations using loops.</li>
   <li>Learned about the App Lifecycle and how to use viewWillAppear or viewWillDisappear.</li>
-  <li>How to create direct Segues for navigation.</li>
+  <li>How to create direct Segues for navigation. </li>
 
 </ul>
 <h2>☑️ Final look of Flash Chat app⚡️</h2>
