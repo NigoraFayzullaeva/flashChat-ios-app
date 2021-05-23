@@ -19,6 +19,6 @@
 
 </ul>
 <h2>☑️ Final look of Flash Chat app⚡️</h2>
-<img src="flashChat.mov" alt="FlashChat" width="20%" height="50%">
+<video src="flashChat.mov" alt="FlashChat" width="20%" height="50%">
 
 
